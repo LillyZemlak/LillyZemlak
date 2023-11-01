@@ -3,10 +3,8 @@
 - 🌱 I’m currently learning React and TensorFlow
 - 💞️ I’m looking to collaborate on open source web development projects and machine learning datasets
 - 📫 How to reach me:
-    Twitter: @LillyZemlak
-    LinkedIn: linkedin.com/in/lillyzemlak
+
     Email: LuciferLutherS@outlook.com
-    Blog: lillyzemlak.dev
 - ⚡ Fun fact: I love salsa dancing and have performed in competitions!
 
 <!---
